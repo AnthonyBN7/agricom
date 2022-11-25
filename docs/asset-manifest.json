@@ -17,7 +17,7 @@
     "static/media/index.css": "/static/media/Graphik-Semibold.53485f6b.woff2",
     "static/media/Roboto-Medium.7429a63c.ttf": "/static/media/Roboto-Medium.7429a63c.ttf",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.f691f37e.woff",
-    "static/media/iso.png": "/static/media/iso.ef7cdeed.png",
+    "static/media/iso.png": "https://anthonybn7.github.io/agricom/static/media/iso.ef7cdeed.png",
     "static/media/pngwing.com.9a7de733.png": "/static/media/pngwing.com.9a7de733.png"
   },
   "entrypoints": [
